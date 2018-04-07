@@ -9,7 +9,7 @@ namespace Vueling.Presentation.WinSite
     static class Inicio
     {
         /// <summary>
-        /// Punto de entrada principal para la aplicación.
+        /// Punto de entrada principal para la aplicación.aaa
         /// </summary>
         [STAThread]
         static void Main()
